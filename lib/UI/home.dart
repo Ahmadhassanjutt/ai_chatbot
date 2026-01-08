@@ -24,7 +24,7 @@ class _HomeState extends State<Home> {
             bottomRight: Radius.circular(100),
           ),
         ),
-        backgroundColor: Colors.deepPurple,
+        backgroundColor: Colors.deepPurpleAccent,
         centerTitle: true,
         title: const Text(
           "Home",
@@ -114,10 +114,7 @@ class _HomeState extends State<Home> {
 
 
 
-//
-//
 // import 'dart:convert';
-//
 // import 'package:flutter/material.dart';
 // import 'package:http/http.dart' as http;
 //
